@@ -2,22 +2,22 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Roderick T. Salvador
     - name: Date of Birth
-      value: 14th March 1879
+      value: 16th May 1976
     - name: Languages
-      value: English, German
+      value: English, Filipino
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Philosophy (PhD) in Veterinary Science
+      institution: Chiang Mai University
+      year: 2018 - 2021 
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
+        - title: Modeling the Spatial Transmission of Highly Pathogenic Avian Influenza (H5N6) Among Poultry Farms in Central Luzon, the Philippines
           contents:
             - Sub-description 1.
             - Sub-description 2.
